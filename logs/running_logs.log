@@ -1,1 +1,11 @@
 [2023-10-20 12:16:07,996: INFO: main: Welcome to our Custom log]
+[2023-10-20 16:06:28,369: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-20 16:06:28,370: INFO: common: yaml file: D:\NephroAIClassifier\config\config.yaml loaded successfully]
+[2023-10-20 16:06:28,370: INFO: common: yaml file: D:\NephroAIClassifier\params.yaml loaded successfully]
+[2023-10-20 16:06:28,370: INFO: common: created directory at: artifacts]
+[2023-10-20 16:06:28,370: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-20 16:06:28,370: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-10-20 16:06:42,949: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-10-20 16:06:43,937: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
